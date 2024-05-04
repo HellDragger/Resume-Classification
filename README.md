@@ -52,3 +52,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 ## Authors
 
 - **Aryan Sharma** - [HellDragger](https://github.com/HellDragger)
+- **Aarohi Panicker** - [YourUsername](https://github.com/YourUsername)
+- **Chris Dcosta** - [YourUsername](https://github.com/YourUsername)
+- **Mudit Garg** - [YourUsername](https://github.com/YourUsername)
