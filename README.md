@@ -14,7 +14,7 @@ The project involves several steps:
 
 ## Repository Structure
 
-- `Resume_Dataset/`: Directory containing resume PDF files organized by category.
+- `Resume_Dataset/data`: Directory containing resume PDF files organized by category.
 - `requirements.txt`: Lists the Python dependencies for the project.
 
 ## Installation
