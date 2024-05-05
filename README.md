@@ -54,4 +54,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 - **Aryan Sharma** - [HellDragger](https://github.com/HellDragger)
 - **Aarohi Panicker** - [aarohisp](https://github.com/aarohisp)
 - **Chris Dcosta** - [YourUsername](https://github.com/YourUsername)
-- **Mudit Garg** - [YourUsername](https://github.com/YourUsername)
+- **Mudit Garg** - [YourUsername](https://github.com/MuditxGarg/)
